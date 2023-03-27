@@ -107,3 +107,15 @@ Large Language Models](https://arxiv.org/pdf/2302.07257.pdf)**
 ## Applications of Large AI Models in Health Informatics
 
 ###  Medical Robotics
+
+* Decision Transformer: Reinforcement Learning via Sequence Modeling [[Paper]](https://arxiv.org/abs/2106.01345) [[Code]](https://github.com/kzl/decision-transformer)
+* R3M: A Universal Visual Representation for Robot Manipulation [[Paper]](https://arxiv.org/abs/2203.12601) [[Project]](https://sites.google.com/view/robot-r3m/) [[Code]](https://github.com/facebookresearch/r3m)
+* MimicPlay: Long-Horizon Imitation Learning by Watching Human Play [[Paper]](https://arxiv.org/abs/2302.12422) [[Project]](https://mimic-play.github.io/)
+* PaLM-E: An Embodied Multimodal Language Model [[Paper]](https://arxiv.org/abs/2303.03378) [[Project]](https://palm-e.github.io/) [[Blog]](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
+* A Generalist Agent [[Paper]](https://arxiv.org/abs/2205.06175) [[Blog]](https://www.deepmind.com/blog/a-generalist-agent)
+* CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098) [[Project]](https://cliport.github.io/) [[Code]](https://github.com/cliport/cliport)
+* Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2209.05451) [[Project]](https://peract.github.io/) [[Code]](https://github.com/peract/peract)
+* Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper]](https://arxiv.org/abs/2204.01691) [[Project]](https://say-can.github.io/) [[Code]](https://github.com/google-research/google-research/tree/master/saycan)
+* VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094) [[Project]](https://vimalabs.github.io/) [[Code]](https://github.com/vimalabs/VIMA)
+* RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817) [[Project]](https://robotics-transformer.github.io/) [[Code]](https://github.com/google-research/robotics_transformer)
+* ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf) [[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/) [[Code]](https://github.com/microsoft/PromptCraft-Robotics)
