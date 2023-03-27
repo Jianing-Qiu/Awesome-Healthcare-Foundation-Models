@@ -14,7 +14,7 @@ Large Language Models](https://arxiv.org/pdf/2302.07257.pdf)**
 
 **[DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4](https://arxiv.org/pdf/2303.11032.pdf)**
 
-
+**[Capabilities of GPT-4 on Medical Challenge Problems](https://arxiv.org/pdf/2303.13375.pdf)**
 
 ## Large Vision Models
 
