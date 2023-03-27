@@ -1,4 +1,4 @@
-# Awesome-Healthcare-Foundation-Models
+# Awesome-Healthcare-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curated list of awesome large AI models (LAMs), or foundation models, in healthcare. We organize the current LAMs into four categories: large language models (LLMs), large vision models (LVMs), large audio models (LAudiMs), and large multi-modal models (LMMs). The areas that these LAMs are applied to include but not limited to bioinformatics, medical diagnosis and decision making, medical imaging and vision, medical informatics, medical education, public health, and medical robotics.
 
@@ -10,10 +10,25 @@ This repository is largely based on the following paper:
 
 **[Large AI Models in Health Informatics:
 Applications, Challenges, and the Future](https://arxiv.org/pdf/2303.11568v1.pdf)**
+<br />
+[Jianing Qiu](),
+[Lin Li](), 
+[Jiankai Sun](https://scholar.google.com/citations?user=726MCb8AAAAJ&hl=en),
+[Peilun Shi](),
+[Ruiyang Zhang](),
+[Yinzhao Dong](),
+[Kyle Lam](),
+[Frank P.-W. Lo](https://sites.google.com/view/frankpwlo/home),
+[Bo Xiao](),
+[Wu Yuan](https://scholar.google.com.sg/citations?user=3A_h6-sAAAAJ&hl=en),
+[Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/), and
+[Benny Lo](https://www.bennyplo.com/bennylo/index.php)
+<br />
+[[Paper]](https://arxiv.org/pdf/2303.11568.pdf)
 
 If you find this repository helpful, please consider citing:
 
-```
+```bibtex
 @article{qiu2023large,
   title={Large AI Models in Health Informatics: Applications, Challenges, and the Future},
   author={Qiu, Jianing and Li, Lin and Sun, Jiankai and Peng, Jiachuan and Shi, Peilun and Zhang, Ruiyang and Dong, Yinzhao and Lam, Kyle and Lo, Frank P-W and Xiao, Bo and others},
@@ -69,7 +84,16 @@ Large Language Models](https://arxiv.org/pdf/2302.07257.pdf)**
 
 
 ## Large Audio Models
-
+* wav2vec: Unsupervised Pre-training for Speech Recognition [[Paper]](https://arxiv.org/abs/1904.05862) [[Blog]](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/)
+* W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training [[Paper]](https://arxiv.org/abs/2108.06209)
+* AudioLM: a Language Modeling Approach to Audio Generation [[Paper]](https://arxiv.org/abs/2209.03143) [[Project]](https://google-research.github.io/seanet/audiolm/examples/) [[Blog]](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
+* HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units [[Paper]](https://arxiv.org/abs/2106.07447) [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/hubert)
+* XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [[Paper]](https://arxiv.org/abs/2111.09296) [[Blog]](https://ai.facebook.com/blog/xls-r-self-supervised-speech-processing-for-128-languages/) [[HuggingFace]](https://huggingface.co/facebook/wav2vec2-xls-r-300m)
+* MusicLM: Generating Music From Text [[Paper]](https://arxiv.org/abs/2301.11325) [[Project]](https://google-research.github.io/seanet/musiclm/examples/) [[Code]](https://github.com/lucidrains/musiclm-pytorch)
+* Diffsound: Discrete Diffusion Model for Text-to-sound Generation [[Paper]](https://arxiv.org/abs/2207.09983) [[Project]](http://dongchaoyang.top/text-to-sound-synthesis-demo/) [[Code]](https://github.com/yangdongchao/Text-to-sound-Synthesis)
+* AudioGen: Textually Guided Audio Generation [[Paper]](https://arxiv.org/abs/2209.15352) [[Project]](https://felixkreuk.github.io/audiogen/)
+* Whisper: Robust Speech Recognition via Large-Scale Weak Supervision [[Paper]](https://arxiv.org/abs/2212.04356) [[Code]](https://github.com/openai/whisper) [[HuggingFace]](https://huggingface.co/openai/whisper-tiny.en)
+* Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages [[Paper]](https://arxiv.org/abs/2303.01037) [[Blog]](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)
 
 
 ## Large Multi-modal Models
@@ -79,3 +103,7 @@ Large Language Models](https://arxiv.org/pdf/2302.07257.pdf)**
 **[Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning](https://www.nature.com/articles/s41551-022-00936-9)**
 
 **[Contrastive Learning of Medical Visual Representations from Paired Images and Text](https://arxiv.org/pdf/2010.00747.pdf)**
+
+## Applications of Large AI Models in Health Informatics
+
+###  Medical Robotics
