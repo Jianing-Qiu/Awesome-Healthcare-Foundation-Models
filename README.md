@@ -1,4 +1,6 @@
-# Awesome-Healthcare-Foundation-Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Healthcare-Foundation-Models 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curated list of awesome large AI models (LAMs), or foundation models, in healthcare. We organize the current LAMs into four categories: large language models (LLMs), large vision models (LVMs), large audio models (LAudiMs), and large multi-modal models (LMMs). The areas that these LAMs are applied to include but not limited to bioinformatics, medical diagnosis and decision making, medical imaging and vision, medical informatics, medical education, public health, and medical robotics.
 
