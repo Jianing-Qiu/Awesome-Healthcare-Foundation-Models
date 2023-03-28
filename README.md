@@ -257,6 +257,9 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Imaging and Vision
 
+* Med3d: Transfer learning for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1904.00625) [[Code]](https://github.com/Tencent/MedicalNet)
+
+* Models genesis: Generic autodidactic models for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1908.06912) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 
 
 ### Medical Informatics
