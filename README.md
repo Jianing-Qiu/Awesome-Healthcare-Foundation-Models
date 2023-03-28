@@ -44,8 +44,7 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
-* ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using
-Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
+* ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 
 * DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4 [[Paper]](https://arxiv.org/pdf/2303.11032.pdf)
 
@@ -187,6 +186,73 @@ Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 ## Applications of Large AI Models in Healthcare
 
 Note that some of the following models were not targeted at healthcare applications initially but may have the potential to be transferred to the healthcare domain or inspire future development.
+
+
+### Bioinformatics
+
+
+### Medical Diagnosis and Decision-making
+
+* Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
+
+* ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
+
+* BEHRT: Transformer for Electronic Health Records [[Paper]](https://www.nature.com/articles/s41598-020-62922-y)
+
+* Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction [[Paper]](https://www.nature.com/articles/s41746-021-00455-y)
+
+
+### Medical Imaging and Vision
+
+
+
+### Medical Informatics
+
+* DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4 [[Paper]](https://arxiv.org/pdf/2303.11032.pdf)
+
+* Capabilities of GPT-4 on Medical Challenge Problems [[Paper]](https://arxiv.org/pdf/2303.13375.pdf)
+
+* BioBERT: a pre-trained biomedical language representation model for biomedical text mining [[Paper]](https://arxiv.org/pdf/1901.08746.pdf)
+
+* Publicly Available Clinical BERT Embeddings [[Paper]](https://arxiv.org/pdf/1904.03323.pdf)
+
+* BioMegatron: Larger Biomedical Domain Language Model [[Paper]](https://arxiv.org/pdf/2010.06060.pdf)
+
+* Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks [[Paper]](https://aclanthology.org/2020.acl-main.740.pdf)
+
+* Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction [[Paper]](https://www.nature.com/articles/s41746-021-00455-y)
+
+* BioELECTRA:Pretrained Biomedical text Encoder using Discriminators [[Paper]](https://aclanthology.org/2021.bionlp-1.16.pdf)
+
+* LinkBERT: Pretraining Language Models with Document Links [[Paper]](https://arxiv.org/pdf/2203.15827.pdf)
+
+* BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining [[Paper]](https://arxiv.org/pdf/2210.10341.pdf)
+
+* Large Language Models Encode Clinical Knowledge [[Paper]](https://arxiv.org/pdf/2212.13138.pdf)
+
+* A large language model for electronic health records [[Paper]](https://www.nature.com/articles/s41746-022-00742-2)
+
+* Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing [[Paper]](https://arxiv.org/pdf/2007.15779.pdf)
+
+* BEHRT: Transformer for Electronic Health Records [[Paper]](https://www.nature.com/articles/s41598-020-62922-y)
+
+
+### Medical Education
+
+* GPT-4 Technical Report [[Paper]](https://arxiv.org/pdf/2303.08774.pdf)
+
+* Empowering Beginners in Bioinformatics with ChatGPT [[Paper]](https://www.biorxiv.org/content/10.1101/2023.03.07.531414v1)
+
+
+### Public Health
+
+* Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
+
+* Clustering Egocentric Images in Passive Dietary Monitoring with Self-Supervised Learning [[Paper]](https://arxiv.org/pdf/2208.12160.pdf)
+
+* ClimaX: A foundation model for weather and climate [[Paper]](https://arxiv.org/pdf/2301.10343.pdf)
+
+
 
 ###  Medical Robotics
 
