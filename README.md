@@ -242,7 +242,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 
 ### Bioinformatics
-
+* Highly accurate protein structure prediction with AlphaFold [[Paper]](https://www.nature.com/articles/s41586-021-03819-2)
 
 ### Medical Diagnosis and Decision-making
 
