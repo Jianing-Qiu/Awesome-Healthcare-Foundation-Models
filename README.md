@@ -13,18 +13,19 @@ This repository is largely based on the following paper:
 **[Large AI Models in Health Informatics:
 Applications, Challenges, and the Future](https://arxiv.org/pdf/2303.11568v1.pdf)**
 <br />
-[Jianing Qiu](),
-[Lin Li](), 
-[Jiankai Sun](https://scholar.google.com/citations?user=726MCb8AAAAJ&hl=en),
-[Peilun Shi](),
-[Ruiyang Zhang](),
-[Yinzhao Dong](),
-[Kyle Lam](),
-[Frank P.-W. Lo](https://sites.google.com/view/frankpwlo/home),
-[Bo Xiao](),
-[Wu Yuan](https://scholar.google.com.sg/citations?user=3A_h6-sAAAAJ&hl=en),
-[Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/), and
-[Benny Lo](https://www.bennyplo.com/bennylo/index.php)
+by 
+Jianing Qiu,
+Lin Li, 
+Jiankai Sun,
+Peilun Shi,
+Ruiyang Zhang,
+Yinzhao Dong,
+Kyle Lam,
+Frank P.-W. Lo,
+Bo Xiao,
+Wu Yuan,
+Dong Xu, and
+Benny Lo
 <br />
 
 
