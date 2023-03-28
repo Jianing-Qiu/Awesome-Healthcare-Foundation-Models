@@ -12,8 +12,7 @@ This repository is largely based on the following paper:
 
 **[Large AI Models in Health Informatics:
 Applications, Challenges, and the Future](https://arxiv.org/pdf/2303.11568v1.pdf)**
-<br />
-by 
+<br /> 
 Jianing Qiu,
 Lin Li, 
 Jiankai Sun,
@@ -41,6 +40,8 @@ If you find this repository helpful, please consider citing:
 ```
 
 ## Large Language Models
+
+### Healthcare Domain
 
 * ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using
 Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
@@ -73,7 +74,7 @@ Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 
 * BEHRT: Transformer for Electronic Health Records [[Paper]](https://www.nature.com/articles/s41598-020-62922-y)
 
-
+### General Domain
 
 
 
@@ -81,12 +82,20 @@ Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 
 ## Large Vision Models
 
+### Healthcare Domain
 
+### General Domain
 
 
 
 
 ## Large Audio Models
+
+### Healthcare Domain
+
+
+### General Domain
+
 * wav2vec: Unsupervised Pre-training for Speech Recognition [[Paper]](https://arxiv.org/abs/1904.05862) [[Blog]](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/)
 * W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training [[Paper]](https://arxiv.org/abs/2108.06209)
 * AudioLM: a Language Modeling Approach to Audio Generation [[Paper]](https://arxiv.org/abs/2209.03143) [[Project]](https://google-research.github.io/seanet/audiolm/examples/) [[Blog]](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
@@ -101,13 +110,21 @@ Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 
 ## Large Multi-modal Models
 
+### Healthcare Domain
+
 * GPT-4 Technical Report [[Paper]](https://arxiv.org/pdf/2303.08774.pdf)
 
 * Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 
 * Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf)
 
-## Applications of Large AI Models in Health Informatics
+### General Domain
+
+
+
+## Applications of Large AI Models in Healthcare
+
+Note that some of the following models were not targeted at healthcare applications initially but may have the potential to be transferred to the healthcare domain or inspire future development.
 
 ###  Medical Robotics
 
