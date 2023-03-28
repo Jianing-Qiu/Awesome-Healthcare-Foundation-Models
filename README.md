@@ -243,7 +243,6 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Bioinformatics
 
-* Highly accurate protein structure prediction with AlphaFold [[Paper]](https://www.nature.com/articles/s41586-021-03819-2)
 
 ### Medical Diagnosis and Decision-making
 
@@ -262,7 +261,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 * Models genesis: Generic autodidactic models for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1908.06912) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 
-* Big self-supervised models advance medical image classifications [[Paper]]([https://arxiv.org/abs/1904.00625](https://arxiv.org/abs/2101.05224)) [[Code]]([https://github.com/Tencent/MedicalNet](https://github.com/rjrobben/MICLe_pytorch))
+* MICLe: Big self-supervised models advance medical image classifications [[Paper]](https://arxiv.org/abs/2101.05224) [[Code]](https://github.com/rjrobben/MICLe_pytorch)
 
 * C2l: Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations [[Paper]](https://arxiv.org/abs/2007.07423) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
 
