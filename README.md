@@ -26,7 +26,7 @@ Applications, Challenges, and the Future](https://arxiv.org/pdf/2303.11568v1.pdf
 [Dong Xu](https://engineering.missouri.edu/faculty/dong-xu/), and
 [Benny Lo](https://www.bennyplo.com/bennylo/index.php)
 <br />
-[[Paper]](https://arxiv.org/pdf/2303.11568.pdf)
+
 
 If you find this repository helpful, please consider citing:
 
