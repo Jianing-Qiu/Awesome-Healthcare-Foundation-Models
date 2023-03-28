@@ -131,13 +131,37 @@ If you find this repository helpful, please consider citing:
 
 ### General Domain
 
+**CNNs**:
 
+* GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[paper]](https://proceedings.neurips.cc/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html)
+* Big Transfer (BiT): General Visual Representation Learning [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500477.pdf)
+* Designing Network Design Spaces [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Radosavovic_Designing_Network_Design_Spaces_CVPR_2020_paper.html)
+* Self-supervised Pretraining of Visual Features in the Wild [[paper]](http://arxiv.org/abs/2103.01988)
+* EfficientNetV2: Smaller Models and Faster Training [[paper]](https://proceedings.mlr.press/v139/tan21a.html)
+* A ConvNet for the 2020s [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf)
+* InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions [[paper]](http://arxiv.org/abs/2211.05778)
 
+**Vision Transformers**:
 
+* Generative Pretraining From Pixels [[paper]](https://proceedings.mlr.press/v119/chen20s.html)
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [[paper]](https://openreview.net/forum?id=YicbFdNTTy&utm_campaign=f86497ed3a-EMAIL_CAMPAIGN_2019_04_24_03_18_COPY_01&utm_medium=email&utm_source=Deep%20Learning%20Weekly&utm_term=0_384567b42d-f86497ed3a-72965345)
+* Transformer in Transformer [[paper]](https://proceedings.neurips.cc/paper/2021/hash/854d9fca60b4bd07f9bb215d59ef5561-Abstract.html)
+* Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html)
+* Training data-efficient image transformers & distillation through attention [[paper]](https://proceedings.mlr.press/v139/touvron21a.html)
+* Self-supervised Models are Good Teaching Assistants for Vision Transformers [[paper]](https://proceedings.mlr.press/v162/wu22c.html)
+* Scaling Vision with Sparse Mixture of Experts [[paper]](https://proceedings.neurips.cc/paper/2021/hash/48237d9f2dea8c74c2a72126cf63d933-Abstract.html)
+* Going Deeper With Image Transformers [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Touvron_Going_Deeper_With_Image_Transformers_ICCV_2021_paper.html)
+* Masked Autoencoders Are Scalable Vision Learners [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper.html)
+* Swin Transformer V2: Scaling Up Capacity and Resolution [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Swin_Transformer_V2_Scaling_Up_Capacity_and_Resolution_CVPR_2022_paper.html)
+* Scaling Vision Transformers [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhai_Scaling_Vision_Transformers_CVPR_2022_paper.html)
+* Efficient Self-supervised Vision Transformers for Representation Learning [[paper]](https://openreview.net/forum?id=fVu3o-YUGQK)
+* Scaling Vision Transformers to 22 Billion Parameters [[paper]](http://arxiv.org/abs/2302.05442)
 
+**CNNs + ViTs**:
 
-
-
+* CoAtNet: Marrying Convolution and Attention for All Data Sizes [[paper]](https://proceedings.neurips.cc/paper/2021/hash/20568692db622456cc42a2e853ca21f8-Abstract.html)
+* LeViT: A Vision Transformer in ConvNet's Clothing for Faster Inference [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Graham_LeViT_A_Vision_Transformer_in_ConvNets_Clothing_for_Faster_Inference_ICCV_2021_paper.html)
+* ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases [[paper]](https://proceedings.mlr.press/v139/d-ascoli21a.html)
 
 
 
@@ -180,6 +204,35 @@ If you find this repository helpful, please consider citing:
 * Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf)
 
 ### General Domain
+
+**Representation learning**:
+
+* Learning Transferable Visual Models From Natural Language Supervision [[paper]](https://proceedings.mlr.press/v139/radford21a.html)
+* Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision [[paper]](https://proceedings.mlr.press/v139/jia21b.html)
+* Florence: A New Foundation Model for Computer Vision [[paper]](http://arxiv.org/abs/2111.11432)
+* Grounded Language-Image Pre-Training [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.html)
+* WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training [[paper]](http://arxiv.org/abs/2103.06561)
+* FLAVA: A Foundational Language and Vision Alignment Model [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.html)
+* SimVLM: Simple Visual Language Model Pretraining with Weak Supervision [[paper]](https://openreview.net/forum?id=GUrhfTuf_3)
+* FILIP: Fine-grained Interactive Language-Image Pre-Training [[paper]](https://openreview.net/forum?id=cpDhcsEDC2)
+* Combined Scaling for Open-Vocabulary Image Classification [[paper]](http://arxiv.org/abs/2111.10050)
+* BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation [[paper]](https://proceedings.mlr.press/v162/li22n.html)
+* PaLI: A Jointly-Scaled Multilingual Language-Image Model [[paper]](http://arxiv.org/abs/2209.06794)
+* Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information [[paper]](http://arxiv.org/abs/2211.09807)
+* BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[paper]](http://arxiv.org/abs/2301.12597)
+* Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm [[paper]](https://openreview.net/forum?id=zq1iJkNk3uN)
+* Language Is Not All You Need: Aligning Perception with Language Models [[paper]](http://arxiv.org/abs/2302.14045)
+* PaLM-E: An Embodied Multimodal Language Model [[paper]](http://arxiv.org/abs/2303.03378)
+* Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [[paper]](http://arxiv.org/abs/2303.04671)
+
+**Text-to-image generation**:
+
+* Zero-Shot Text-to-Image Generation [[paper]](https://proceedings.mlr.press/v139/ramesh21a.html)
+* High-Resolution Image Synthesis With Latent Diffusion Models [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.html)
+* Hierarchical Text-Conditional Image Generation with CLIP Latents [[paper]](http://arxiv.org/abs/2204.06125)
+* GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models [[paper]](https://proceedings.mlr.press/v162/nichol22a.html)
+* Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [[paper]](https://openreview.net/forum?id=08Yk-n5l2Al)
+* Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [[paper]](https://openreview.net/forum?id=AFDcYJKhND)
 
 
 
