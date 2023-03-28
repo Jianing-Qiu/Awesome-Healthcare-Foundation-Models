@@ -98,14 +98,23 @@ Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 ### General Domain
 
 * wav2vec: Unsupervised Pre-training for Speech Recognition [[Paper]](https://arxiv.org/abs/1904.05862) [[Blog]](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/)
+
 * W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training [[Paper]](https://arxiv.org/abs/2108.06209)
+
 * AudioLM: a Language Modeling Approach to Audio Generation [[Paper]](https://arxiv.org/abs/2209.03143) [[Project]](https://google-research.github.io/seanet/audiolm/examples/) [[Blog]](https://ai.googleblog.com/2022/10/audiolm-language-modeling-approach-to.html)
+
 * HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units [[Paper]](https://arxiv.org/abs/2106.07447) [[HuggingFace]](https://huggingface.co/docs/transformers/model_doc/hubert)
+
 * XLS-R: Self-supervised Cross-lingual Speech Representation Learning at Scale [[Paper]](https://arxiv.org/abs/2111.09296) [[Blog]](https://ai.facebook.com/blog/xls-r-self-supervised-speech-processing-for-128-languages/) [[HuggingFace]](https://huggingface.co/facebook/wav2vec2-xls-r-300m)
+
 * MusicLM: Generating Music From Text [[Paper]](https://arxiv.org/abs/2301.11325) [[Project]](https://google-research.github.io/seanet/musiclm/examples/) [[Code]](https://github.com/lucidrains/musiclm-pytorch)
+
 * Diffsound: Discrete Diffusion Model for Text-to-sound Generation [[Paper]](https://arxiv.org/abs/2207.09983) [[Project]](http://dongchaoyang.top/text-to-sound-synthesis-demo/) [[Code]](https://github.com/yangdongchao/Text-to-sound-Synthesis)
+
 * AudioGen: Textually Guided Audio Generation [[Paper]](https://arxiv.org/abs/2209.15352) [[Project]](https://felixkreuk.github.io/audiogen/)
+
 * Whisper: Robust Speech Recognition via Large-Scale Weak Supervision [[Paper]](https://arxiv.org/abs/2212.04356) [[Code]](https://github.com/openai/whisper) [[HuggingFace]](https://huggingface.co/openai/whisper-tiny.en)
+
 * Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages [[Paper]](https://arxiv.org/abs/2303.01037) [[Blog]](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)
 
 
@@ -130,13 +139,23 @@ Note that some of the following models were not targeted at healthcare applicati
 ###  Medical Robotics
 
 * Decision Transformer: Reinforcement Learning via Sequence Modeling [[Paper]](https://arxiv.org/abs/2106.01345) [[Code]](https://github.com/kzl/decision-transformer)
+
 * R3M: A Universal Visual Representation for Robot Manipulation [[Paper]](https://arxiv.org/abs/2203.12601) [[Project]](https://sites.google.com/view/robot-r3m/) [[Code]](https://github.com/facebookresearch/r3m)
+
 * MimicPlay: Long-Horizon Imitation Learning by Watching Human Play [[Paper]](https://arxiv.org/abs/2302.12422) [[Project]](https://mimic-play.github.io/)
+
 * PaLM-E: An Embodied Multimodal Language Model [[Paper]](https://arxiv.org/abs/2303.03378) [[Project]](https://palm-e.github.io/) [[Blog]](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html)
+
 * A Generalist Agent [[Paper]](https://arxiv.org/abs/2205.06175) [[Blog]](https://www.deepmind.com/blog/a-generalist-agent)
+
 * CLIPort: What and Where Pathways for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2109.12098) [[Project]](https://cliport.github.io/) [[Code]](https://github.com/cliport/cliport)
+
 * Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation [[Paper]](https://arxiv.org/abs/2209.05451) [[Project]](https://peract.github.io/) [[Code]](https://github.com/peract/peract)
+
 * Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper]](https://arxiv.org/abs/2204.01691) [[Project]](https://say-can.github.io/) [[Code]](https://github.com/google-research/google-research/tree/master/saycan)
+
 * VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094) [[Project]](https://vimalabs.github.io/) [[Code]](https://github.com/vimalabs/VIMA)
+
 * RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817) [[Project]](https://robotics-transformer.github.io/) [[Code]](https://github.com/google-research/robotics_transformer)
+
 * ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf) [[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/) [[Code]](https://github.com/microsoft/PromptCraft-Robotics)
