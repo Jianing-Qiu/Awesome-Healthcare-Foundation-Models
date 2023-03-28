@@ -77,6 +77,47 @@ Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 
 ### General Domain
 
+* LLaMA: Open and Efficient Foundation Language Models [[Paper]](https://arxiv.org/pdf/2302.13971.pdf)
+
+* Scaling Instruction-Finetuned Language Models [[Paper]](https://arxiv.org/pdf/2210.11416.pdf)
+
+* PaLM: Scaling Language Modeling with Pathways [[Paper]](https://arxiv.org/pdf/2204.02311.pdf)
+
+* Training Compute-Optimal Large Language Models [[Paper]](https://arxiv.org/pdf/2203.15556.pdf)
+
+* Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [[Paper]](https://arxiv.org/pdf/2201.11990.pdf)
+
+* BLOOM: A 176B-Parameter Open-Access Multilingual Language Model [[Paper]](https://arxiv.org/pdf/2211.05100.pdf)
+
+* LaMDA: Language Models for Dialog Applications [[Paper]](https://arxiv.org/pdf/2201.08239.pdf)
+
+* OPT: Open Pre-trained Transformer Language Models [[Paper]](https://arxiv.org/pdf/2205.01068.pdf)
+
+* Training language models to follow instructions with human feedback [[Paper]](https://arxiv.org/pdf/2203.02155.pdf)
+
+* Scaling Language Models: Methods, Analysis & Insights from Training Gopher [[Paper]](https://arxiv.org/pdf/2112.11446.pdf)
+
+* Multitask prompted training enables zero-shot task generalization [[Paper]](https://arxiv.org/pdf/2110.08207.pdf)
+
+* Language Models are Few-Shot Learners [[Paper]](https://arxiv.org/pdf/2005.14165.pdf)
+
+* Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer [[Paper]](https://arxiv.org/pdf/1910.10683.pdf)
+
+* RoBERTa: A Robustly Optimized BERT Pretraining Approach [[Paper]](https://arxiv.org/pdf/1907.11692.pdf)
+
+* Language Models are Unsupervised Multitask Learners [[Paper]](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+
+* Improving language models by retrieving from trillions of tokens [[Paper]](https://arxiv.org/pdf/2112.04426.pdf)
+
+* WebGPT: Browser-assisted question-answering with human feedback [[Paper]](https://arxiv.org/pdf/2112.09332.pdf)
+
+* Improving alignment of dialogue agents via targeted human judgements [[Paper]](https://arxiv.org/pdf/2209.14375.pdf)
+
+* Improving Language Understanding by Generative Pre-Training [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf)
+
+
 
 
 
@@ -86,6 +127,13 @@ Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 ### Healthcare Domain
 
 ### General Domain
+
+
+
+
+
+
+
 
 
 
