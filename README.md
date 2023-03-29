@@ -129,6 +129,32 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+
+* Med3d: Transfer learning for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1904.00625) [[Code]](https://github.com/Tencent/MedicalNet)
+
+* Models genesis: Generic autodidactic models for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1908.06912) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
+
+* MICLe: Big self-supervised models advance medical image classifications [[Paper]](https://arxiv.org/abs/2101.05224) [[Code]](https://github.com/rjrobben/MICLe_pytorch)
+
+* C2l: Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations [[Paper]](https://arxiv.org/abs/2007.07423) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
+
+* ConVIRT: Contrastive learning of medical visual representations from paired images and text [[Paper]](https://arxiv.org/pdf/2303.11032.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
+
+* Gloria: A multimodal global-local representation learning framework for labelefficient medical image recognition [[Paper]](https://ieeexplore.ieee.org/document/9710099) [[Code]](https://github.com/marshuang80/gloria)
+
+* MoCo-CXR: MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models [[Paper]](https://arxiv.org/abs/2010.05352) [[Code]](https://github.com/stanfordmlgroup/MoCo-CXR)
+
+* Transunet: Transformers make strong encoders for medical image segmentation [[Paper]](https://arxiv.org/abs/2102.04306) [[Code]](https://github.com/Beckschen/TransUNet)
+
+* Transfuse: Fusing transformers and cnns for medical image segmentation [[Paper]](https://arxiv.org/abs/2102.08005) [[Code]](https://github.com/Rayicer/TransFuse)
+
+* Medical transformer: Gated axial-attention for medical image segmentation [[Paper]](https://arxiv.org/abs/2102.10662) [[Code]](https://github.com/jeya-maria-jose/Medical-Transformer)
+* UNETR: Transformers for 3D Medical Image Segmentation [[Paper]](https://arxiv.org/abs/2103.10504) [[Code]](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)
+
+* Cotr: Efficiently bridging cnn and transformer for 3d medical image segmentation [[Paper]](https://arxiv.org/abs/2103.03024) [[Code]](https://github.com/YtongXie/CoTr)
+
+* Swin-unet: Unet-like pure transformer for medical image segmentation [[Paper]](https://arxiv.org/abs/2105.05537) [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
+
 ### General Domain
 
 **CNNs**:
