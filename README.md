@@ -13,7 +13,7 @@ We welcome contributions to this repository to add more resources. Please submit
 * [Large Vision Models](#large-vision-models)
 * [Large Audio Models](#large-audio-models)
 * [Large Multi-modal models](#large-multi-modal-models)
-* [Applications of Large AI Models in Healthcare](#application-of-large-ai-models-in-healthcare)
+* [Applications of Large AI Models in Healthcare](#applications-of-large-ai-models-in-healthcare)
 
 
 ## Survey
