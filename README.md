@@ -75,7 +75,28 @@ If you find this repository helpful, please consider citing:
 * Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing [[Paper]](https://arxiv.org/pdf/2007.15779.pdf)
 * BEHRT: Transformer for Electronic Health Records [[Paper]](https://www.nature.com/articles/s41598-020-62922-y)
 
-
+* Highly accurate protein structure prediction with AlphaFold [[Paper]](https://www.nature.com/articles/s41586-021-03819-2) [[Code]](https://github.com/deepmind/alphafold)
+* Accurate prediction of protein structures and interactions using a three-track neural network [[Paper]](https://www.science.org/doi/full/10.1126/science.abj8754?casa_token=tleEHPOOSr8AAAAA%3AT0eToIMPW0oN1jjIGLs8aPyQK8qbcFIByjT1x4k90tvBAj03SZUzpEinCPe_t-g4ECmjJ9wlj8OwQBs)
+* Protein complex prediction with AlphaFold-Multimer [[Paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.abstract)
+* FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours [[Paper]](https://arxiv.org/abs/2203.00854) [[Code]](https://github.com/hpcaitech/fastfold)
+* HelixFold: An Efficient Implementation of AlphaFold2 using PaddlePaddle [[Paper]](https://arxiv.org/abs/2207.05477) [[Code]](https://github.com/PaddlePaddle/PaddleHelix)
+* Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v3.abstract) [[Code]](https://github.com/dptech-corp/Uni-Fold)
+* OpenFold: Retraining AlphaFold2 yields new insights into its learning mechanisms and capacity for generalization [[Paper]](https://www.biorxiv.org/content/10.1101/2022.11.20.517210v2.abstract) [[Code]](https://github.com/aqlaboratory/openfold)
+* ManyFold: an efficient and flexible library for training and validating protein folding models [[Paper]](https://academic.oup.com/bioinformatics/article/39/1/btac773/6887136) [[Code]](https://github.com/instadeepai/manyfold)
+* ColabFold: making protein folding accessible to all [[Paper]](https://www.nature.com/articles/s41592-022-01488-1) [[Code]](https://github.com/sokrypton/ColabFold)
+* Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences [[Paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118) [[Code]](https://github.com/facebookresearch/esm)
+* ProGen: Language Modeling for Protein Generation [[Paper]](https://arxiv.org/abs/2004.03497) [[Code]](https://github.com/lucidrains/progen)
+* ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing [[Paper]](https://arxiv.org/abs/2007.06225) [[Code]](https://github.com/agemagician/ProtTrans)
+* Language models of protein sequences at the scale of evolution enable accurate structure prediction [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1.full.pdf?utm_campaign=M2D2%20Community%20Round-Up&utm_medium=email&utm_source=Revue%20newsletter)
+* High-resolution de novo structure prediction from primary sequence [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1.abstract) [[Code]](https://github.com/HeliXonProtein/OmegaFold)
+* Single-sequence protein structure prediction using a language model and deep learning [[Paper]](https://www.nature.com/articles/s41587-022-01432-w)
+* Improved the Protein Complex Prediction with Protein Language Models [[Paper]](https://www.biorxiv.org/content/10.1101/2022.09.15.508065v2.abstract)
+* MSA Transformer [[Paper]](http://proceedings.mlr.press/v139/rao21a.html) [[Code]](https://github.com/The-AI-Summer/self-attention-cv)
+* Deciphering antibody affinity maturation with language models and weakly supervised learning [[Paper]](https://arxiv.org/abs/2112.07782)
+* xTrimoABFold: De novo Antibody Structure Prediction without MSA [[Paper]](https://arxiv.org/abs/2212.00735)
+* scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data [[Paper]](https://arxiv.org/abs/2212.00735) [[Code]](https://github.com/TencentAILabHealthcare/scBERT)
+* Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract) [[Code]](https://github.com/ml4bio/rna-fm)
+* E2Efold-3D: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract) [[Code]](https://github.com/ml4bio/rna-fm)
 
 ### General Domain
 
