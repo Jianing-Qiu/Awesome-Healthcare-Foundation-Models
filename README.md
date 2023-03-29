@@ -100,7 +100,6 @@ If you find this repository helpful, please consider citing:
 * Models genesis: Generic autodidactic models for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1908.06912) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 * MICLe: Big self-supervised models advance medical image classifications [[Paper]](https://arxiv.org/abs/2101.05224) [[Code]](https://github.com/rjrobben/MICLe_pytorch)
 * C2l: Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations [[Paper]](https://arxiv.org/abs/2007.07423) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
-* ConVIRT: Contrastive learning of medical visual representations from paired images and text [[Paper]](https://arxiv.org/pdf/2303.11032.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
 * MoCo-CXR: MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models [[Paper]](https://arxiv.org/abs/2010.05352) [[Code]](https://github.com/stanfordmlgroup/MoCo-CXR)
 * Transunet: Transformers make strong encoders for medical image segmentation [[Paper]](https://arxiv.org/abs/2102.04306) [[Code]](https://github.com/Beckschen/TransUNet)
 * Transfuse: Fusing transformers and cnns for medical image segmentation [[Paper]](https://arxiv.org/abs/2102.08005) [[Code]](https://github.com/Rayicer/TransFuse)
@@ -170,7 +169,7 @@ If you find this repository helpful, please consider citing:
 
 * GPT-4 Technical Report [[Paper]](https://arxiv.org/pdf/2303.08774.pdf)
 * Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
-* Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf)
+* Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
 * Gloria: A multimodal global-local representation learning framework for labelefficient medical image recognition [[Paper]](https://ieeexplore.ieee.org/document/9710099) [[Code]](https://github.com/marshuang80/gloria)
 
 ### General Domain
