@@ -248,6 +248,9 @@ Note that some of the following models were not targeted at healthcare applicati
 * scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data [[Paper]](https://arxiv.org/abs/2212.00735)
 * Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract)
 * E2Efold-3D: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract)
+* SMILES-BERT: large scale unsupervised pre-training for molecular property prediction [[Paper]](https://par.nsf.gov/servlets/purl/10168888) [[Code]](https://github.com/uta-smile/SMILES-BERT)
+* SMILES Transformer: Pre-trained molecular fingerprint for low data drug discovery [[Paper]](https://arxiv.org/abs/1911.04738) [[Code]](https://github.com/DSPsleeporg/smiles-transformer)
+
 
 ### Medical Diagnosis and Decision-making
 
