@@ -40,7 +40,16 @@ If you find this repository helpful, please consider citing:
 }
 ```
 
-## Large Language Models
+## Table of Contents
+* [Large Language Models](#llms)
+* [Large Vision Models](#lvms)
+* [Large Audio Models](#laudims)
+* [Large Multi-modal models](#lmms)
+
+
+
+
+## [Large Language Models]
 
 ### Healthcare Domain
 
@@ -91,7 +100,7 @@ If you find this repository helpful, please consider citing:
 
 
 
-## Large Vision Models
+## [Large Vision Models[
 
 ### Healthcare Domain
 
@@ -144,7 +153,7 @@ If you find this repository helpful, please consider citing:
 
 
 
-## Large Audio Models
+## [Large Audio Models]
 
 ### Healthcare Domain
 
@@ -163,7 +172,7 @@ If you find this repository helpful, please consider citing:
 * Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages [[Paper]](https://arxiv.org/abs/2303.01037) [[Blog]](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html)
 
 
-## Large Multi-modal Models
+## [Large Multi-modal Models]
 
 ### Healthcare Domain
 
