@@ -250,7 +250,22 @@ Note that some of the following models were not targeted at healthcare applicati
 * E2Efold-3D: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract)
 * SMILES-BERT: large scale unsupervised pre-training for molecular property prediction [[Paper]](https://par.nsf.gov/servlets/purl/10168888) [[Code]](https://github.com/uta-smile/SMILES-BERT)
 * SMILES Transformer: Pre-trained molecular fingerprint for low data drug discovery [[Paper]](https://arxiv.org/abs/1911.04738) [[Code]](https://github.com/DSPsleeporg/smiles-transformer)
-
+* MolBert: Molecular representation learning with language models and domain-relevant auxiliary tasks [[Paper]](https://arxiv.org/abs/2011.13230) [[Code]](https://github.com/BenevolentAI/MolBERT)
+* AGBT: Algebraic graph-assisted bidirectional transformers for molecular property prediction [[Paper]](https://www.nature.com/articles/s41467-021-23720-w) [[Code]](https://github.com/ChenDdon/AGBTcode)
+* GROVER: Self-supervised graph transformer on large-scale molecular data [[Paper]](https://arxiv.org/abs/2007.02835) [[Code]](https://github.com/tencent-ailab/grover)
+* Molgpt: molecular generation using a transformer-decoder model [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00600) [[Code]](https://github.com/devalab/molgpt)
+* A Model to Search for Synthesizable Molecules [[Paper]](https://arxiv.org/abs/1906.05221) [[Code]](https://github.com/john-bradshaw/molecule-chef)
+* Transformer neural network for protein-specific de novo drug generation as a machine translation problem [[Paper]](https://www.nature.com/articles/s41598-020-79682-4)
+* Deepconv-dti: Prediction of drug-target interactions via deep learning with convolution on protein sequences [[Paper]](https://arxiv.org/abs/1811.02114) [[Code]](https://github.com/GIST-CSBL/DeepConv-DTI)
+* Graphdta: predicting drug–target binding affinity with graph neural networks [[Paper]](https://pubmed.ncbi.nlm.nih.gov/33119053/) [[Code]](https://github.com/thinng/GraphDTA)
+* Moltrans: molecular interaction transformer for drug–target interaction prediction [[Paper]](https://arxiv.org/abs/2004.11424) [[Code]](https://github.com/kexinhuang12345/moltrans)
+* Extracting Predictive Representations from Hundreds of Millions of Molecules [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jpclett.1c03058) [[Code]](https://github.com/WeilabMSU/PretrainModels)
+* ADMETlab 2.0: an integrated online platform for accurate and comprehensive predictions of ADMET properties [[Project]](https://admetmesh.scbdd.com/) [[Paper]](https://pubmed.ncbi.nlm.nih.gov/33893803/)
+* MPG: Learn molecular representations from large-scale unlabeled molecules for drug discovery [[Paper]](https://arxiv.org/abs/2012.11175)
+* MG-BERT: leveraging unsupervised atomic representation learning for molecular property prediction [[Paper]](https://academic.oup.com/bib/article-abstract/22/6/bbab152/6265201?redirectedFrom=fulltext) [[Code]](https://github.com/ParishadBehnam/MG-BERT)
+* PanGu Drug Model: Learn a Molecule Like a Human [[Project]](http://www.pangu-drug.com/) [[Paper]](https://www.biorxiv.org/content/10.1101/2022.03.31.485886v1.full)
+* DrugBAN: Interpretable bilinear attention network with domain adaptation improves drug–target prediction [[Paper]](https://www.nature.com/articles/s42256-022-00605-1) [[Code]](https://github.com/peizhenbai/DrugBAN)
+* DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery [[Paper]](https://arxiv.org/abs/2201.09637) [[Code]](https://github.com/tencent-ailab/DrugOOD)
 
 ### Medical Diagnosis and Decision-making
 
