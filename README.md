@@ -9,10 +9,10 @@ We welcome contributions to this repository to add more resources. Please submit
 
 ## Table of Contents
 * [Survey](#survey)
-* [Large Language Models](#llms)
-* [Large Vision Models](#lvms)
-* [Large Audio Models](#laudims)
-* [Large Multi-modal models](#lmms)
+* [Large Language Models](#large-language-models)
+* [Large Vision Models](#large-vision-models)
+* [Large Audio Models](#large-audio-models)
+* [Large Multi-modal models](#large-multi-modal-models)
 
 
 ## Survey
