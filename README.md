@@ -6,6 +6,15 @@ Curated list of awesome large AI models (LAMs), or foundation models, in healthc
 
 We welcome contributions to this repository to add more resources. Please submit a pull request if you want to contribute!
 
+
+## Table of Contents
+* [Survey](#survey)
+* [Large Language Models](#llms)
+* [Large Vision Models](#lvms)
+* [Large Audio Models](#laudims)
+* [Large Multi-modal models](#lmms)
+
+
 ## Survey
 
 This repository is largely based on the following paper:
@@ -40,11 +49,7 @@ If you find this repository helpful, please consider citing:
 }
 ```
 
-## Table of Contents
-* [Large Language Models](#llms)
-* [Large Vision Models](#lvms)
-* [Large Audio Models](#laudims)
-* [Large Multi-modal models](#lmms)
+
 
 
 
