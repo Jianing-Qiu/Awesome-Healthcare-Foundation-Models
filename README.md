@@ -59,6 +59,9 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+* BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model [[Paper]](https://aclanthology.org/2022.bionlp-1.9.pdf)
+* ClinicalT5: A Generative Language Model for Clinical Text [[Paper]](https://aclanthology.org/2022.findings-emnlp.398.pdf)
+* GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured Electronic Health Records [[Paper]](https://arxiv.org/pdf/2203.03540v2.pdf)
 * ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf)
 * DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4 [[Paper]](https://arxiv.org/pdf/2303.11032.pdf)
 * Capabilities of GPT-4 on Medical Challenge Problems [[Paper]](https://arxiv.org/pdf/2303.13375.pdf)
