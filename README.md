@@ -59,6 +59,7 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+* KeBioLM: Improving Biomedical Pretrained Language Models with Knowledge [[Paper]](https://arxiv.org/abs/2104.10344)
 * BioELMo: Probing Biomedical Embeddings from Language Models [[Paper]](https://arxiv.org/abs/1904.02181)
 * BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model [[Paper]](https://aclanthology.org/2022.bionlp-1.9.pdf)
 * ClinicalT5: A Generative Language Model for Clinical Text [[Paper]](https://aclanthology.org/2022.findings-emnlp.398.pdf)
@@ -211,6 +212,7 @@ If you find this repository helpful, please consider citing:
 * Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 * Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
 * Gloria: A multimodal global-local representation learning framework for labelefficient medical image recognition [[Paper]](https://ieeexplore.ieee.org/document/9710099) [[Code]](https://github.com/marshuang80/gloria)
+* RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[Paper]](https://arxiv.org/abs/2303.00534)
 
 ### General Domain
 
