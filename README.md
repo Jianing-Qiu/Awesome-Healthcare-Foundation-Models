@@ -253,6 +253,8 @@ Note that some of the following models were not targeted at healthcare applicati
 
 
 ### Bioinformatics
+
+* GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information [[Paper]](https://arxiv.org/abs/2304.09667)
 * Highly accurate protein structure prediction with AlphaFold [[Paper]](https://www.nature.com/articles/s41586-021-03819-2) [[Code]](https://github.com/deepmind/alphafold)
 * Accurate prediction of protein structures and interactions using a three-track neural network [[Paper]](https://www.science.org/doi/full/10.1126/science.abj8754?casa_token=tleEHPOOSr8AAAAA%3AT0eToIMPW0oN1jjIGLs8aPyQK8qbcFIByjT1x4k90tvBAj03SZUzpEinCPe_t-g4ECmjJ9wlj8OwQBs)
 * Protein complex prediction with AlphaFold-Multimer [[Paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2.abstract)
