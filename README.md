@@ -148,6 +148,7 @@ If you find this repository helpful, please consider citing:
 * UNETR: Transformers for 3D Medical Image Segmentation [[Paper]](https://arxiv.org/abs/2103.10504) [[Code]](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)
 * Cotr: Efficiently bridging cnn and transformer for 3d medical image segmentation [[Paper]](https://arxiv.org/abs/2103.03024) [[Code]](https://github.com/YtongXie/CoTr)
 * Swin-unet: Unet-like pure transformer for medical image segmentation [[Paper]](https://arxiv.org/abs/2105.05537) [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
+* SAM4Med: Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation [[Paper]](https://arxiv.org/pdf/2304.12637.pdf)
 
 ### General Domain
 
@@ -318,7 +319,7 @@ Note that some of the following models were not targeted at healthcare applicati
 * UNETR: Transformers for 3D Medical Image Segmentation [[Paper]](https://arxiv.org/abs/2103.10504) [[Code]](https://github.com/Project-MONAI/research-contributions/tree/main/UNETR/BTCV)
 * Cotr: Efficiently bridging cnn and transformer for 3d medical image segmentation [[Paper]](https://arxiv.org/abs/2103.03024) [[Code]](https://github.com/YtongXie/CoTr)
 * Swin-unet: Unet-like pure transformer for medical image segmentation [[Paper]](https://arxiv.org/abs/2105.05537) [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
-
+* SAM4Med: Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation [[Paper]](https://arxiv.org/pdf/2304.12637.pdf)
 
 
 
