@@ -6,6 +6,25 @@ Curated list of awesome large AI models (LAMs), or foundation models, in healthc
 
 We welcome contributions to this repository to add more resources. Please submit a pull request if you want to contribute!
 
+## News
+
+We are excited to annouce a IEEE J-BHI special issue on **Biomedical and Health Foundation Models**. Please refer to the [call-for-papers](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2023/06/JBHI_Foundation_Models_Call-for-Papers.pdf) for more details. 
+
+Topics of interest include but not limited to:
+1) Basic research on new theories, principles, and structures of biomedical and health foundation models
+2) Basic research on the interpretability and explainability of biomedical and health foundation models
+3) Prompt engineering in biomedical and health foundation models
+4) Data engineering in biomedical and health foundation models
+5) Large-scale biomedical and health dataset
+6) Multi-modal learning and alignment for biomedical and health foundation models
+7) Efficient computing for biomedical and health foundation models
+8) Adversarial robustness of biomedical and health foundation models
+9) Applications of foundation models in biomedical and health informatics
+10) New evaluation paradigms for biomedical and health foundation models
+11) New computer systems for biomedical and health foundation models
+12) Decentralised methods for developing and deploying biomedical and health foundation models
+13) Foundation model ethics, safety, privacy, and regulations in biomedicine and healthcare
+
 
 ## Table of Contents
 * [Survey](#survey)
