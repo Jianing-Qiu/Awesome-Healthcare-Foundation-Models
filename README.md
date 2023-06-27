@@ -8,7 +8,7 @@ We welcome contributions to this repository to add more resources. Please submit
 
 ## News
 
-We are excited to annouce a IEEE J-BHI special issue on **Biomedical and Health Foundation Models**. Please refer to the [call-for-papers](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2023/06/JBHI_Foundation_Models_Call-for-Papers.pdf) for more details. 
+We are excited to annouce a *IEEE J-BHI* special issue on **Biomedical and Health Foundation Models**. Please refer to the [call-for-papers](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2023/06/JBHI_Foundation_Models_Call-for-Papers.pdf) for more details. 
 
 Topics of interest include but not limited to:
 1) Basic research on new theories, principles, and structures of biomedical and health foundation models
@@ -24,6 +24,8 @@ Topics of interest include but not limited to:
 11) New computer systems for biomedical and health foundation models
 12) Decentralised methods for developing and deploying biomedical and health foundation models
 13) Foundation model ethics, safety, privacy, and regulations in biomedicine and healthcare
+
+Please help spread the word and contribute if you are interested or already working on this topic!
 
 
 ## Table of Contents
