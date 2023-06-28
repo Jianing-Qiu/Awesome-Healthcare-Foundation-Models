@@ -25,7 +25,7 @@ Topics of interest include but not limited to:
 12) Decentralised methods for developing and deploying biomedical and health foundation models
 13) Foundation model ethics, safety, privacy, and regulations in biomedicine and healthcare
 
-Please help spread the word and contribute if you are interested or already working on this topic!
+Please help spread the word and contribute if you are interested or already working on these topics!
 
 
 ## Table of Contents
