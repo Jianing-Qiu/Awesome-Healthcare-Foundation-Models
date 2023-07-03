@@ -162,6 +162,7 @@ If you find this repository helpful, please consider citing:
 - Cotr: Efficiently bridging cnn and transformer for 3d medical image segmentation [[Paper]](https://arxiv.org/abs/2103.03024) [[Code]](https://github.com/YtongXie/CoTr)
 - Swin-unet: Unet-like pure transformer for medical image segmentation [[Paper]](https://arxiv.org/abs/2105.05537) [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
 - SAM4Med: Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation [[Paper]](https://arxiv.org/pdf/2304.12637.pdf)
+- LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching [[Paper]](https://arxiv.org/abs/2306.11925) [[Code]](https://github.com/duyhominhnguyen/LVM-Med)
 
 ### General Domain
 
