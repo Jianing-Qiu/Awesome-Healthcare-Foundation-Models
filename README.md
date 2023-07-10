@@ -150,6 +150,7 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+- LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching [[Paper]](https://arxiv.org/abs/2306.11925) [[Code]](https://github.com/duyhominhnguyen/LVM-Med)
 - Med3d: Transfer learning for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1904.00625) [[Code]](https://github.com/Tencent/MedicalNet)
 - Models genesis: Generic autodidactic models for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1908.06912) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 - MICLe: Big self-supervised models advance medical image classifications [[Paper]](https://arxiv.org/abs/2101.05224) [[Code]](https://github.com/rjrobben/MICLe_pytorch)
