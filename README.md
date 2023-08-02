@@ -36,6 +36,7 @@ Please help spread the word and contribute if you are interested or already work
 - [Large Audio Models](#large-audio-models)
 - [Large Multi-modal models](#large-multi-modal-models)
 - [Applications of Large AI Models in Healthcare](#applications-of-large-ai-models-in-healthcare)
+- [AI Legislation](#ai-legislation)
 
 ## Survey
 
@@ -375,3 +376,14 @@ Note that some of the following models were not targeted at healthcare applicati
 - VIMA: General Robot Manipulation with Multimodal Prompts [[Paper]](https://arxiv.org/abs/2210.03094) [[Project]](https://vimalabs.github.io/) [[Code]](https://github.com/vimalabs/VIMA)
 - RT-1: Robotics Transformer for Real-World Control at Scale [[Paper]](https://arxiv.org/abs/2212.06817) [[Project]](https://robotics-transformer.github.io/) [[Code]](https://github.com/google-research/robotics_transformer)
 - ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf) [[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/) [[Code]](https://github.com/microsoft/PromptCraft-Robotics)
+
+
+
+## AI Legislation
+
+- AI Act (EU) [[Source]](https://artificialintelligenceact.eu/)
+- A pro-innovation approach to AI regulation (UK) [[Source]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment data/file/1146542/a pro-innovation approach to AI regulation.pdf)
+- Blueprint for an AI Bill of Rights (USA) [[Source]](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
+- AI Risk Management Framework (USA) [[Source]](https://www.nist.gov/itl/ai-risk-management-framework)
+- Provisions on the Administration of Deep Synthesis Internet Information Services (China) [[Source]](https://www.chinalawtranslate.com/en/deep-synthesis/)
+- Interim Measures for the Management of Generative Artificial Intelligence Services (China) [[Source]](https://www.chinalawtranslate.com/en/generative-ai-interim/)
