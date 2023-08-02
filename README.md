@@ -382,7 +382,7 @@ Note that some of the following models were not targeted at healthcare applicati
 ## AI Legislation
 
 - AI Act (EU) [[Source]](https://artificialintelligenceact.eu/)
-- A pro-innovation approach to AI regulation (UK) [[Source]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment data/file/1146542/a pro-innovation approach to AI regulation.pdf)
+- A pro-innovation approach to AI regulation (UK) [[Source]](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1146542/a_pro-innovation_approach_to_AI_regulation.pdf)
 - Blueprint for an AI Bill of Rights (USA) [[Source]](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 - AI Risk Management Framework (USA) [[Source]](https://www.nist.gov/itl/ai-risk-management-framework)
 - Provisions on the Administration of Deep Synthesis Internet Information Services (China) [[Source]](https://www.chinalawtranslate.com/en/deep-synthesis/)
