@@ -122,6 +122,7 @@ If you find this repository helpful, please consider citing:
 - scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data [[Paper]](https://arxiv.org/abs/2212.00735) [[Code]](https://github.com/TencentAILabHealthcare/scBERT)
 - Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract) [[Code]](https://github.com/ml4bio/rna-fm)
 - E2Efold-3D: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract) [[Code]](https://github.com/ml4bio/rna-fm)
+- HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution [[Paper]](https://arxiv.org/abs/2306.15794) [[Code]](https://github.com/HazyResearch/hyena-dna)
 
 ### General Domain
 
