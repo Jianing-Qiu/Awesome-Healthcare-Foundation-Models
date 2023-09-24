@@ -43,7 +43,7 @@ Please help spread the word and contribute if you are interested or already work
 This repository is largely based on the following paper:
 
 **[Large AI Models in Health Informatics:
-Applications, Challenges, and the Future](https://arxiv.org/pdf/2303.11568v1.pdf)**
+Applications, Challenges, and the Future](https://ieeexplore.ieee.org/document/10261199)**
 <br />
 Jianing Qiu,
 Lin Li,
@@ -56,6 +56,7 @@ Kyle Lam,
 Frank P.-W. Lo,
 Bo Xiao,
 Wu Yuan,
+Ningli Wang,
 Dong Xu, and
 Benny Lo
 <br />
@@ -66,8 +67,9 @@ If you find this repository helpful, please consider citing:
 @article{qiu2023large,
   title={Large AI Models in Health Informatics: Applications, Challenges, and the Future},
   author={Qiu, Jianing and Li, Lin and Sun, Jiankai and Peng, Jiachuan and Shi, Peilun and Zhang, Ruiyang and Dong, Yinzhao and Lam, Kyle and Lo, Frank P-W and Xiao, Bo and others},
-  journal={arXiv preprint arXiv:2303.11568},
-  year={2023}
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
