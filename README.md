@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of awesome large AI models (LAMs), or foundation models, in healthcare. We organize the current LAMs into four categories: large language models (LLMs), large vision models (LVMs), large audio models (LAudiMs), and large multi-modal models (LMMs). The areas that these LAMs are applied to include but not limited to bioinformatics, medical diagnosis and decision making, medical imaging and vision, medical informatics, medical education, public health, and medical robotics.
+Curated list of awesome large AI models (LAMs), or foundation models, in healthcare. We organize the current LAMs into four categories: large language models (LLMs), large vision models (LVMs), large audio models, and large multi-modal models (LMMs). The areas that these LAMs are applied to include but not limited to bioinformatics, medical diagnosis, medical imaging, medical informatics, medical education, public health, and medical robotics.
 
 We welcome contributions to this repository to add more resources. Please submit a pull request if you want to contribute!
 
@@ -311,7 +311,7 @@ Note that some of the following models were not targeted at healthcare applicati
 - DrugBAN: Interpretable bilinear attention network with domain adaptation improves drug–target prediction [[Paper]](https://www.nature.com/articles/s42256-022-00605-1) [[Code]](https://github.com/peizhenbai/DrugBAN)
 - DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery [[Paper]](https://arxiv.org/abs/2201.09637) [[Code]](https://github.com/tencent-ailab/DrugOOD)
 
-### Medical Diagnosis and Decision-making
+### Medical Diagnosis
 
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf) [[Code]](https://github.com/zhaozh10/ChatCAD)
@@ -322,7 +322,7 @@ Note that some of the following models were not targeted at healthcare applicati
 - RadBERT: Adapting Transformer-based Language Models to Radiology [[paper]](https://pubs.rsna.org/doi/epdf/10.1148/ryai.210258) [[HuggingFace]](https://huggingface.co/UCSD-VA-health/RadBERT-RoBERTa-4m)
 - ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs [[paper]](https://arxiv.org/abs/2305.15964) [[Code]](https://github.com/zhaozh10/ChatCAD)
 
-### Medical Imaging and Vision
+### Medical Imaging
 
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - Med3d: Transfer learning for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1904.00625) [[Code]](https://github.com/Tencent/MedicalNet)
