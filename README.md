@@ -73,7 +73,7 @@ If you find this repository helpful, please consider citing:
 }
 ```
 
-![](LAM_key_feature_summary.pdf)
+![](LAM_key_feature_summary.png)
 
 ## Large Language Models
 
