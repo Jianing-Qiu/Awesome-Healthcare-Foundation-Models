@@ -93,6 +93,7 @@ If you find this repository helpful, please consider citing:
 - BioMegatron: Larger Biomedical Domain Language Model [[Paper]](https://arxiv.org/pdf/2010.06060.pdf)
 - Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks [[Paper]](https://aclanthology.org/2020.acl-main.740.pdf)
 - Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction [[Paper]](https://www.nature.com/articles/s41746-021-00455-y)
+- CPLLM: Clinical Prediction with Large Language Models [[Paper]](https://arxiv.org/abs/2309.11295) [[Code]](https://github.com/nadavlab/CPLLM)
 - DoctorGLM: Fine-tuning your chinese doctor is not a herculean task [[Paper]](https://arxiv.org/abs/2304.01097) [[Code]](https://github.com/xionghonglin/DoctorGLM)
 - HuatuoGPT, Towards Taming Language Models To Be a Doctor [[Paper]](https://arxiv.org/abs/2305.15075) [[Code]](https://github.com/FreedomIntelligence/HuatuoGPT)
 - BioELECTRA:Pretrained Biomedical text Encoder using Discriminators [[Paper]](https://aclanthology.org/2021.bionlp-1.16.pdf)
@@ -317,6 +318,7 @@ Note that some of the following models were not targeted at healthcare applicati
 - BEHRT: Transformer for Electronic Health Records [[Paper]](https://www.nature.com/articles/s41598-020-62922-y)
 - Federated Learning of Medical Concepts Embedding using BEHRT [[Paper]](https://arxiv.org/abs/2305.13052) [[Code]](https://github.com/nadavlab/FederatedBEHRT)
 - Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction [[Paper]](https://www.nature.com/articles/s41746-021-00455-y)
+- CPLLM: Clinical Prediction with Large Language Models [[Paper]](https://arxiv.org/abs/2309.11295) [[Code]](https://github.com/nadavlab/CPLLM)
 - RadBERT: Adapting Transformer-based Language Models to Radiology [[paper]](https://pubs.rsna.org/doi/epdf/10.1148/ryai.210258) [[HuggingFace]](https://huggingface.co/UCSD-VA-health/RadBERT-RoBERTa-4m)
 - ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs [[paper]](https://arxiv.org/abs/2305.15964) [[Code]](https://github.com/zhaozh10/ChatCAD)
 
@@ -348,6 +350,7 @@ Note that some of the following models were not targeted at healthcare applicati
 - BioMegatron: Larger Biomedical Domain Language Model [[Paper]](https://arxiv.org/pdf/2010.06060.pdf)
 - Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks [[Paper]](https://aclanthology.org/2020.acl-main.740.pdf)
 - Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction [[Paper]](https://www.nature.com/articles/s41746-021-00455-y)
+- CPLLM: Clinical Prediction with Large Language Models [[Paper]](https://arxiv.org/abs/2309.11295) [[Code]](https://github.com/nadavlab/CPLLM)
 - BioELECTRA:Pretrained Biomedical text Encoder using Discriminators [[Paper]](https://aclanthology.org/2021.bionlp-1.16.pdf)
 - LinkBERT: Pretraining Language Models with Document Links [[Paper]](https://arxiv.org/pdf/2203.15827.pdf)
 - BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining [[Paper]](https://arxiv.org/pdf/2210.10341.pdf)
