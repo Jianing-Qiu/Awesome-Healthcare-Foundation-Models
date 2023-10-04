@@ -395,3 +395,17 @@ Note that some of the following models were not targeted at healthcare applicati
 - AI Risk Management Framework (USA) [[Source]](https://www.nist.gov/itl/ai-risk-management-framework)
 - Provisions on the Administration of Deep Synthesis Internet Information Services (China) [[Source]](https://www.chinalawtranslate.com/en/deep-synthesis/)
 - Interim Measures for the Management of Generative Artificial Intelligence Services (China) [[Source]](https://www.chinalawtranslate.com/en/generative-ai-interim/)
+
+## Open-source Large-scale Datasets in Biomedical and Health Informatics
+
+| Dataset                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Big Fantastic Datasbase](https://bfd.mmseqs.com/)           | 2.1 B protein sequences, 393 B amino acids                   |
+| [Observed Antibody Space](https://opig.stats.ox.ac.uk/webapps/oas/) | 558 M antibody sequences                                     |
+| [RNAcentral](https://rnacentral.org/)                        | 34 M ncRNA sequences, 22 M secondary structure               |
+| [ZINC20](https://zinc20.docking.org/)                        | 1.4B compounds from 310 catalogs from 150 companies          |
+| [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/)  | 65K patients, 337K chest X-ray images and 227K radiology reports |
+| [MedMNIST v2](https://medmnist.com/)                         | 708K 2D medical images, 10K 3D medical images                |
+| [Medical Meadow](https://github.com/kbressem/medAlpaca)      | 1.5M data points containing a wide range of medical language processing tasks |
+| [Endo-FM database](https://github.com/med-air/Endo-FM)       | 33K endoscopic videos, up to 5M frames                       |
+
