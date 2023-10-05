@@ -37,6 +37,7 @@ Please help spread the word and contribute if you are interested or already work
 - [Large Multi-modal models](#large-multi-modal-models)
 - [Applications of Large AI Models in Healthcare](#applications-of-large-ai-models-in-healthcare)
 - [AI Legislation](#ai-legislation)
+- [Large-scale Biomedical and Health Datasets](#open-source-large-scale-datasets-in-biomedical-and-health-informatics)
 
 ## Survey
 
