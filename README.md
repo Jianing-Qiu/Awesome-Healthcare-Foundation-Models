@@ -235,6 +235,9 @@ If you find this repository helpful, please consider citing:
 
 ### General Domain
 
+**Multi-modal Chatbot**
+- The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision) [[Paper]](https://browse.arxiv.org/pdf/2309.17421.pdf)
+
 **Representation learning**:
 
 - Learning Transferable Visual Models From Natural Language Supervision [[paper]](https://proceedings.mlr.press/v139/radford21a.html)
