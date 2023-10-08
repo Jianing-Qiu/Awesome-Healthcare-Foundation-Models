@@ -37,7 +37,7 @@ Please help spread the word and contribute if you are interested or already work
 - [Large Multi-modal models](#large-multi-modal-models)
 - [Applications of Large AI Models in Healthcare](#applications-of-large-ai-models-in-healthcare)
 - [AI Legislation](#ai-legislation)
-- [Large-scale Biomedical and Health Datasets](#open-source-large-scale-datasets-in-biomedical-and-health-informatics)
+- [Large-scale Biomedical and Health Datasets](#large-scale-datasets-in-biomedical-and-health-informatics)
 
 ## Survey
 
@@ -397,7 +397,8 @@ Note that some of the following models were not targeted at healthcare applicati
 - Provisions on the Administration of Deep Synthesis Internet Information Services (China) [[Source]](https://www.chinalawtranslate.com/en/deep-synthesis/)
 - Interim Measures for the Management of Generative Artificial Intelligence Services (China) [[Source]](https://www.chinalawtranslate.com/en/generative-ai-interim/)
 
-## Open-source Large-scale Datasets in Biomedical and Health Informatics
+## Large-scale Datasets in Biomedical and Health Informatics
+### Open Source
 
 | Dataset                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -409,4 +410,13 @@ Note that some of the following models were not targeted at healthcare applicati
 | [MedMNIST v2](https://medmnist.com/)                         | 708K 2D medical images, 10K 3D medical images                |
 | [Medical Meadow](https://github.com/kbressem/medAlpaca)      | 1.5M data points containing a wide range of medical language processing tasks |
 | [Endo-FM database](https://github.com/med-air/Endo-FM)       | 33K endoscopic videos, up to 5M frames                       |
+
+### Private or Upon Approval
+| Dataset                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Mount Sinai ECG Data](https://www.nature.com/articles/s41746-023-00840-9)           | 2.1 M patients, containing 8.5 M discrete ECG recordings|
+| [Google DR Dev. Dataset](https://jamanetwork.com/journals/jama/fullarticle/2588763) | 239 K unique individuals, 1.6 M fundus images |
+| [UF Health IDR Clinical Note Database](https://www.nature.com/articles/s41746-022-00742-2) | 290 M clinical notes, with up to 82 B medical words |
+| [Clinical Practice Research Datalink](https://academic.oup.com/ije/article/44/3/827/632531) | 11.3 M patients covering data on demographics, symptoms, diagnoses, etc |
+
 
