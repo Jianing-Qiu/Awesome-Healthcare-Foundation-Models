@@ -66,7 +66,7 @@ If you find this repository helpful, please consider citing:
 
 ```bibtex
 @article{qiu2023large,
-  title={Large AI Models in Health Informatics: Applications, Challenges, and the Future},
+  title={Large ai models in health informatics: Applications, challenges, and the future},
   author={Qiu, Jianing and Li, Lin and Sun, Jiankai and Peng, Jiachuan and Shi, Peilun and Zhang, Ruiyang and Dong, Yinzhao and Lam, Kyle and Lo, Frank P-W and Xiao, Bo and others},
   journal={IEEE Journal of Biomedical and Health Informatics},
   year={2023},
