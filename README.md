@@ -227,6 +227,7 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+- LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
 - GPT-4 Technical Report [[Paper]](https://arxiv.org/pdf/2303.08774.pdf)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
@@ -317,6 +318,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Diagnosis
 
+- LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf) [[Code]](https://github.com/zhaozh10/ChatCAD)
 - BEHRT: Transformer for Electronic Health Records [[Paper]](https://www.nature.com/articles/s41598-020-62922-y)
