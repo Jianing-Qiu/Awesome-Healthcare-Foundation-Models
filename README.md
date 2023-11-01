@@ -158,6 +158,10 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+- VisionFM: A Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://arxiv.org/abs/2310.04992)
+- RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
+- EndoFM: Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train [[Paper]](https://arxiv.org/abs/2306.16741) [[Code]](https://github.com/med-air/Endo-FM)
+- STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training [[Paper]](https://arxiv.org/abs/2304.06716)
 - LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching [[Paper]](https://arxiv.org/abs/2306.11925) [[Code]](https://github.com/duyhominhnguyen/LVM-Med)
 - Med3d: Transfer learning for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1904.00625) [[Code]](https://github.com/Tencent/MedicalNet)
 - Models genesis: Generic autodidactic models for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1908.06912) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
@@ -227,6 +231,7 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+- PLIP: A visual–language foundation model for pathology image analysis using medical Twitter [[Paper]](https://www.nature.com/articles/s41591-023-02504-3)
 - LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
 - GPT-4 Technical Report [[Paper]](https://arxiv.org/pdf/2303.08774.pdf)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
@@ -318,6 +323,8 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Diagnosis
 
+- VisionFM: A Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://arxiv.org/abs/2310.04992)
+- RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
 - LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models [[Paper]](https://arxiv.org/pdf/2302.07257.pdf) [[Code]](https://github.com/zhaozh10/ChatCAD)
@@ -330,6 +337,8 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Imaging
 
+- VisionFM: A Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://arxiv.org/abs/2310.04992)
+- RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - Med3d: Transfer learning for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1904.00625) [[Code]](https://github.com/Tencent/MedicalNet)
 - Models genesis: Generic autodidactic models for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1908.06912) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
@@ -379,6 +388,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Robotics
 
+- EndoFM: Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train [[Paper]](https://arxiv.org/abs/2306.16741) [[Code]](https://github.com/med-air/Endo-FM)
 - Decision Transformer: Reinforcement Learning via Sequence Modeling [[Paper]](https://arxiv.org/abs/2106.01345) [[Code]](https://github.com/kzl/decision-transformer)
 - R3M: A Universal Visual Representation for Robot Manipulation [[Paper]](https://arxiv.org/abs/2203.12601) [[Project]](https://sites.google.com/view/robot-r3m/) [[Code]](https://github.com/facebookresearch/r3m)
 - MimicPlay: Long-Horizon Imitation Learning by Watching Human Play [[Paper]](https://arxiv.org/abs/2302.12422) [[Project]](https://mimic-play.github.io/)
