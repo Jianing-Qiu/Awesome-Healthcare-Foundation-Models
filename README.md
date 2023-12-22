@@ -231,6 +231,7 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+- Dietary Assessment with Multimodal ChatGPT: A Systematic Analysis [[Paper]](https://arxiv.org/abs/2312.08592)
 - PLIP: A visual–language foundation model for pathology image analysis using medical Twitter [[Paper]](https://www.nature.com/articles/s41591-023-02504-3)
 - LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
 - GPT-4 Technical Report [[Paper]](https://arxiv.org/pdf/2303.08774.pdf)
@@ -382,6 +383,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Public Health
 
+- Dietary Assessment with Multimodal ChatGPT: A Systematic Analysis [[Paper]](https://arxiv.org/abs/2312.08592)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - Clustering Egocentric Images in Passive Dietary Monitoring with Self-Supervised Learning [[Paper]](https://arxiv.org/pdf/2208.12160.pdf)
 - ClimaX: A foundation model for weather and climate [[Paper]](https://arxiv.org/pdf/2301.10343.pdf)
