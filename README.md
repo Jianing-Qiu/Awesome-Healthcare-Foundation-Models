@@ -30,14 +30,34 @@ Please help spread the word and contribute if you are interested or already work
 
 ## Table of Contents
 
-- [Survey](#survey)
-- [Large Language Models](#large-language-models)
-- [Large Vision Models](#large-vision-models)
-- [Large Audio Models](#large-audio-models)
-- [Large Multi-modal models](#large-multi-modal-models)
-- [Applications of Large AI Models in Healthcare](#applications-of-large-ai-models-in-healthcare)
-- [AI Legislation](#ai-legislation)
-- [Large-scale Biomedical and Health Datasets](#large-scale-datasets-in-biomedical-and-health-informatics)
+- [Awesome-Healthcare-Foundation-Models](#awesome-healthcare-foundation-models)
+  - [News](#news)
+  - [Table of Contents](#table-of-contents)
+  - [Survey](#survey)
+  - [Large Language Models](#large-language-models)
+    - [Healthcare Domain](#healthcare-domain)
+    - [General Domain](#general-domain)
+  - [Large Vision Models](#large-vision-models)
+    - [Healthcare Domain](#healthcare-domain-1)
+    - [General Domain](#general-domain-1)
+  - [Large Audio Models](#large-audio-models)
+    - [Healthcare Domain](#healthcare-domain-2)
+    - [General Domain](#general-domain-2)
+  - [Large Multi-modal Models](#large-multi-modal-models)
+    - [Healthcare Domain](#healthcare-domain-3)
+    - [General Domain](#general-domain-3)
+  - [Applications of Large AI Models in Healthcare](#applications-of-large-ai-models-in-healthcare)
+    - [Bioinformatics](#bioinformatics)
+    - [Medical Diagnosis](#medical-diagnosis)
+    - [Medical Imaging](#medical-imaging)
+    - [Medical Informatics](#medical-informatics)
+    - [Medical Education](#medical-education)
+    - [Public Health](#public-health)
+    - [Medical Robotics](#medical-robotics)
+  - [AI Legislation](#ai-legislation)
+  - [Large-scale Datasets in Biomedical and Health Informatics](#large-scale-datasets-in-biomedical-and-health-informatics)
+    - [Open Source](#open-source)
+    - [Private or Upon Approval](#private-or-upon-approval)
 
 ## Survey
 
@@ -80,6 +100,8 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+- ChiMed-GPT: A Chinese Medical Large Language Model with Full
+Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxiv.org/pdf/2311.06025.pdf) [[Code]](https://github.com/synlp/ChiMed-GPT)
 - Med-PaLM 2: Towards Expert-Level Medical Question Answering with Large Language Models [[Paper]](https://arxiv.org/pdf/2305.09617.pdf)
 - KeBioLM: Improving Biomedical Pretrained Language Models with Knowledge [[Paper]](https://arxiv.org/abs/2104.10344)
 - BioELMo: Probing Biomedical Embeddings from Language Models [[Paper]](https://arxiv.org/abs/1904.02181)
@@ -231,6 +253,7 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+- Bootstrapping Large Language Models for Radiology Report Generation [[Paper]] [[Code]](https://github.com/synlp/R2-LLM)
 - Dietary Assessment with Multimodal ChatGPT: A Systematic Analysis [[Paper]](https://arxiv.org/abs/2312.08592)
 - PLIP: A visual–language foundation model for pathology image analysis using medical Twitter [[Paper]](https://www.nature.com/articles/s41591-023-02504-3)
 - LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
