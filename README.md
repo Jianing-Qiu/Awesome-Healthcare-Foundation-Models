@@ -262,6 +262,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
 - Gloria: A multimodal global-local representation learning framework for labelefficient medical image recognition [[Paper]](https://ieeexplore.ieee.org/document/9710099) [[Code]](https://github.com/marshuang80/gloria)
 - RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[Paper]](https://arxiv.org/abs/2303.00534)
+- PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain? [[Paper]](https://aclanthology.org/2023.findings-eacl.88/)
 
 ### General Domain
 
