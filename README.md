@@ -197,6 +197,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - Cotr: Efficiently bridging cnn and transformer for 3d medical image segmentation [[Paper]](https://arxiv.org/abs/2103.03024) [[Code]](https://github.com/YtongXie/CoTr)
 - Swin-unet: Unet-like pure transformer for medical image segmentation [[Paper]](https://arxiv.org/abs/2105.05537) [[Code]](https://github.com/HuCaoFighting/Swin-Unet)
 - SAM4Med: Generalist Vision Foundation Models for Medical Imaging: A Case Study of Segment Anything Model on Zero-Shot Medical Segmentation [[Paper]](https://arxiv.org/pdf/2304.12637.pdf)
+- Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures[[Paper]](https://arxiv.org/abs/2307.15220) [[Code]](https://github.com/CAMMA-public/SurgVLP)
 
 ### General Domain
 
@@ -262,6 +263,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - Contrastive Learning of Medical Visual Representations from Paired Images and Text [[Paper]](https://arxiv.org/pdf/2010.00747.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
 - Gloria: A multimodal global-local representation learning framework for labelefficient medical image recognition [[Paper]](https://ieeexplore.ieee.org/document/9710099) [[Code]](https://github.com/marshuang80/gloria)
 - RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[Paper]](https://arxiv.org/abs/2303.00534)
+- Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures[[Paper]](https://arxiv.org/abs/2307.15220) [[Code]](https://github.com/CAMMA-public/SurgVLP)
 
 ### General Domain
 
@@ -427,7 +429,6 @@ Note that some of the following models were not targeted at healthcare applicati
 - ChatGPT for Robotics: Design Principles and Model Abilities [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf) [[Blog]](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/) [[Code]](https://github.com/microsoft/PromptCraft-Robotics)
 
 
-
 ## AI Legislation
 
 - AI Act (EU) [[Source]](https://artificialintelligenceact.eu/)
@@ -450,6 +451,7 @@ Note that some of the following models were not targeted at healthcare applicati
 | [MedMNIST v2](https://medmnist.com/)                         | 708K 2D medical images, 10K 3D medical images                |
 | [Medical Meadow](https://github.com/kbressem/medAlpaca)      | 1.5M data points containing a wide range of medical language processing tasks |
 | [Endo-FM database](https://github.com/med-air/Endo-FM)       | 33K endoscopic videos, up to 5M frames                       |
+| [SurgVLP database](https://github.com/CAMMA-public/SurgVLP)       | 25K laparoscopic video-text pairs from 1k surgical lecture videos |
 
 ### Private or Upon Approval
 | Dataset                                                      | Description                                                  |
