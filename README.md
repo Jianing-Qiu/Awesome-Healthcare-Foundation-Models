@@ -254,6 +254,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 
 ### Healthcare Domain
 
+- The application of multimodal large language models in medicine [[Paper]](https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00042-7/fulltext)
 - Bootstrapping Large Language Models for Radiology Report Generation [[Paper]] [[Code]](https://github.com/synlp/R2-LLM)
 - Dietary Assessment with Multimodal ChatGPT: A Systematic Analysis [[Paper]](https://arxiv.org/abs/2312.08592)
 - PLIP: A visual–language foundation model for pathology image analysis using medical Twitter [[Paper]](https://www.nature.com/articles/s41591-023-02504-3)
