@@ -100,6 +100,8 @@ If you find this repository helpful, please consider citing:
 
 ### Healthcare Domain
 
+
+- ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes  [[Paper]](https://arxiv.org/abs/2403.05795)
 - ChiMed-GPT: A Chinese Medical Large Language Model with Full
 Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxiv.org/pdf/2311.06025.pdf) [[Code]](https://github.com/synlp/ChiMed-GPT)
 - Med-PaLM 2: Towards Expert-Level Medical Question Answering with Large Language Models [[Paper]](https://arxiv.org/pdf/2305.09617.pdf)
