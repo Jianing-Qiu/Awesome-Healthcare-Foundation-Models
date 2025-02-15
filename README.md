@@ -28,6 +28,22 @@ Topics of interest include but not limited to:
 
 Please help spread the word and contribute if you are interested or already working on these topics!
 
+Our latest article about LLM agents in medicine is published in **Nature Machine Intelligence**, 2024. Please check it out and hope it is helpful!
+
+**[LLM-based Agentic Systems in Medicine and Healthcare](https://www.nature.com/articles/s42256-024-00944-1)**
+<br />
+Jianing Qiu,
+Kyle Lam,
+Guohao Li,
+Amish Acharya,
+Tien Yin Wong,
+Ara Darzi,
+Wu Yuan, and
+Eric J. Topol
+<br />
+
+![](Comparison_between_LLM_and_LLM-based_AI_Agent.png)
+
 ## Table of Contents
 
 - [Awesome-Healthcare-Foundation-Models](#awesome-healthcare-foundation-models)
