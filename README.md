@@ -28,7 +28,7 @@ Topics of interest include but not limited to:
 
 Please help spread the word and contribute if you are interested or already working on these topics!
 
-Our latest article about LLM agents in medicine is published in **Nature Machine Intelligence**, 2024. Please check it out and hope it is helpful!
+:star2: Our latest article about LLM agents in medicine is published in **Nature Machine Intelligence**, 2024. Please check it out and hope it is helpful!
 
 **[LLM-based Agentic Systems in Medicine and Healthcare](https://www.nature.com/articles/s42256-024-00944-1)**
 <br />
