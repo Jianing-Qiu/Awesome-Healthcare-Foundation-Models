@@ -285,7 +285,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training [[Paper]](https://arxiv.org/abs/2303.00534)
 - PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain? [[Paper]](https://aclanthology.org/2023.findings-eacl.88/)
 - SurgVLP: Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures[[Paper]](https://arxiv.org/abs/2307.15220) [[Code]](https://github.com/CAMMA-public/SurgVLP)
-
+- Frontiers in intelligent colonoscopy [[Paper]](https://arxiv.org/abs/2410.17241) [[Code]](https://github.com/ai4colonoscopy/IntelliScope)
 
 ### General Domain
 
@@ -474,6 +474,9 @@ Note that some of the following models were not targeted at healthcare applicati
 | [Medical Meadow](https://github.com/kbressem/medAlpaca)      | 1.5M data points containing a wide range of medical language processing tasks |
 | [Endo-FM database](https://github.com/med-air/Endo-FM)       | 33K endoscopic videos, up to 5M frames                       |
 | [SurgVLP database](https://github.com/CAMMA-public/SurgVLP)       | 25K laparoscopic video-text pairs from 1k surgical lecture videos |
+| [ColonINST](https://github.com/ai4colonoscopy/IntelliScope) | 450K multimodal instruction tuning pairs in colonoscopy |
+
+62 categories, 300K+ colonoscopic images, 128K+ medical captions (GPT-4V) generated), and 450K+ human-machine dialogues. 
 
 ### Private or Upon Approval
 | Dataset                                                      | Description                                                  |
