@@ -476,8 +476,6 @@ Note that some of the following models were not targeted at healthcare applicati
 | [SurgVLP database](https://github.com/CAMMA-public/SurgVLP)       | 25K laparoscopic video-text pairs from 1k surgical lecture videos |
 | [ColonINST](https://github.com/ai4colonoscopy/IntelliScope) | 450K multimodal instruction tuning pairs in colonoscopy |
 
-62 categories, 300K+ colonoscopic images, 128K+ medical captions (GPT-4V) generated), and 450K+ human-machine dialogues. 
-
 ### Private or Upon Approval
 | Dataset                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
