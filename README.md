@@ -244,6 +244,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - Scaling Vision Transformers [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhai_Scaling_Vision_Transformers_CVPR_2022_paper.html)
 - Efficient Self-supervised Vision Transformers for Representation Learning [[paper]](https://openreview.net/forum?id=fVu3o-YUGQK)
 - Scaling Vision Transformers to 22 Billion Parameters [[paper]](http://arxiv.org/abs/2302.05442)
+- H-optimus-0: 1.1B parameter vision transformer trained on a proprietary collection of more than 500,000 H&E stained whole slide histology images [[Code]](https://github.com/bioptimus/releases/tree/main/models/h-optimus/v0)[[HuggingFace]](https://huggingface.co/bioptimus/H-optimus-0)
 
 **CNNs + ViTs**:
 
