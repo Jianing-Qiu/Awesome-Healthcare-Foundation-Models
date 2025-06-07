@@ -198,6 +198,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 
 ### Healthcare Domain
 
+- vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Wittmann_vesselFM_A_Foundation_Model_for_Universal_3D_Blood_Vessel_Segmentation_CVPR_2025_paper.html) [[Code]](https://github.com/bwittmann/vesselFM)
 - VisionFM: A Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://arxiv.org/abs/2310.04992)
 - RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
 - EndoFM: Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train [[Paper]](https://arxiv.org/abs/2306.16741) [[Code]](https://github.com/med-air/Endo-FM)
