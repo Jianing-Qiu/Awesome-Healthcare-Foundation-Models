@@ -199,7 +199,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 ### Healthcare Domain
 
 - vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Wittmann_vesselFM_A_Foundation_Model_for_Universal_3D_Blood_Vessel_Segmentation_CVPR_2025_paper.html) [[Code]](https://github.com/bwittmann/vesselFM)
-- VisionFM: A Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://arxiv.org/abs/2310.04992)
+- VisionFM: Development and Validation of a Multimodal Multitask Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://ai.nejm.org/doi/full/10.1056/AIoa2300221) [[Code]](https://github.com/ABILab-CUHK/VisionFM)
 - RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
 - EndoFM: Foundation Model for Endoscopy Video Analysis via Large-scale Self-supervised Pre-train [[Paper]](https://arxiv.org/abs/2306.16741) [[Code]](https://github.com/med-air/Endo-FM)
 - STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training [[Paper]](https://arxiv.org/abs/2304.06716)
@@ -373,7 +373,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Diagnosis
 
-- VisionFM: A Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://arxiv.org/abs/2310.04992)
+- VisionFM: Development and Validation of a Multimodal Multitask Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://ai.nejm.org/doi/full/10.1056/AIoa2300221) [[Code]](https://github.com/ABILab-CUHK/VisionFM)
 - RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
 - LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
@@ -387,7 +387,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Imaging
 
-- VisionFM: A Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://arxiv.org/abs/2310.04992)
+- VisionFM: Development and Validation of a Multimodal Multitask Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://ai.nejm.org/doi/full/10.1056/AIoa2300221) [[Code]](https://github.com/ABILab-CUHK/VisionFM)
 - RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
 - Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning [[Paper]](https://www.nature.com/articles/s41551-022-00936-9)
 - Med3d: Transfer learning for 3d medical image analysis [[Paper]](https://arxiv.org/abs/1904.00625) [[Code]](https://github.com/Tencent/MedicalNet)
