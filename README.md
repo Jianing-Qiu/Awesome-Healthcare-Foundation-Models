@@ -169,6 +169,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract) [[Code]](https://github.com/ml4bio/rna-fm)
 - E2Efold-3D: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2.abstract) [[Code]](https://github.com/ml4bio/rna-fm)
 - HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution [[Paper]](https://arxiv.org/abs/2306.15794) [[Code]](https://github.com/HazyResearch/hyena-dna)
+- ExGra-Med: Extended Context Graph Alignment for Medical Vision-Language Models [[Paper]](https://openreview.net/pdf?id=TjWdyVWBAG) [[Code]](https://github.com/duyhominhnguyen/Exgra-Med)
 
 ### General Domain
 
