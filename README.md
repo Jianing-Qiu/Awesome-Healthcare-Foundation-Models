@@ -424,6 +424,10 @@ Note that some of the following models were not targeted at healthcare applicati
 - Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing [[Paper]](https://arxiv.org/pdf/2007.15779.pdf)
 - BEHRT: Transformer for Electronic Health Records [[Paper]](https://www.nature.com/articles/s41598-020-62922-y)
 - Federated Learning of Medical Concepts Embedding using BEHRT [[Paper]](https://arxiv.org/abs/2305.13052) [[Code]](https://github.com/nadavlab/FederatedBEHRT)
+- - [Apex Health AI Diagnostic Suite](https://www.apexbody.site/): A suite of AI-driven tools for personalized health informatics, including:
+  - [Apex Metabolic Fuel Calculator](https://www.apexbody.site/p/apex-metabolic-fuel-calculator.html): AI-based bio-energetics and calorie precision tool.
+  - [Apex Bio-Age Test](https://www.apexbody.site/p/apex-bio-age-test-discover-your-real_4.html): Cellular aging and biomarker analysis tool.
+  - [Apex Body Composition Lab](https://www.apexbody.site/p/apex-body-composition-lab.html): Advanced biometric data modeling for body composition.
 
 ### Medical Education
 
