@@ -370,6 +370,7 @@ Note that some of the following models were not targeted at healthcare applicati
 - PanGu Drug Model: Learn a Molecule Like a Human [[Project]](http://www.pangu-drug.com/) [[Paper]](https://www.biorxiv.org/content/10.1101/2022.03.31.485886v1.full)
 - DrugBAN: Interpretable bilinear attention network with domain adaptation improves drug–target prediction [[Paper]](https://www.nature.com/articles/s42256-022-00605-1) [[Code]](https://github.com/peizhenbai/DrugBAN)
 - DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery [[Paper]](https://arxiv.org/abs/2201.09637) [[Code]](https://github.com/tencent-ailab/DrugOOD)
+- dna-claude-analysis: Personal genome analysis toolkit using LLM for raw DNA data analysis across 17 health categories [[Code]](https://github.com/shmlkv/dna-claude-analysis)
 
 ### Medical Diagnosis
 
