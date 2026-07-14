@@ -373,6 +373,11 @@ Note that some of the following models were not targeted at healthcare applicati
 - DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery [[Paper]](https://arxiv.org/abs/2201.09637) [[Code]](https://github.com/tencent-ailab/DrugOOD)
 - dna-claude-analysis: Personal genome analysis toolkit using LLM for raw DNA data analysis across 17 health categories [[Code]](https://github.com/shmlkv/dna-claude-analysis)
 
+- DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images [[Paper]](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) [[Code]](https://github.com/ratschlab/DeepSpot)
+- DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision [[Paper]](https://openreview.net/forum?id=ofCkwXQKaz) [[Code]](https://github.com/ratschlab/DeepSpot2Cell)
+- DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology [[Paper]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[Code]](https://github.com/ratschlab/DeepSpotM)
+- AESTETIK: AutoEncoder for Spatial Transcriptomics Expression with Topology and Image Knowledge [[Paper]](https://doi.org/10.1093/bioinformatics/btag316) [[Code]](https://github.com/ratschlab/aestetik)
+
 ### Medical Diagnosis
 
 - VisionFM: Development and Validation of a Multimodal Multitask Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://ai.nejm.org/doi/full/10.1056/AIoa2300221) [[Code]](https://github.com/ABILab-CUHK/VisionFM)
@@ -388,6 +393,11 @@ Note that some of the following models were not targeted at healthcare applicati
 - ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs [[paper]](https://arxiv.org/abs/2305.15964) [[Code]](https://github.com/zhaozh10/ChatCAD)
 
 ### Medical Imaging
+
+- DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images [[Paper]](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) [[Code]](https://github.com/ratschlab/DeepSpot)
+- DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision [[Paper]](https://openreview.net/forum?id=ofCkwXQKaz) [[Code]](https://github.com/ratschlab/DeepSpot2Cell)
+- DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology [[Paper]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[Code]](https://github.com/ratschlab/DeepSpotM)
+- AESTETIK: AutoEncoder for Spatial Transcriptomics Expression with Topology and Image Knowledge [[Paper]](https://doi.org/10.1093/bioinformatics/btag316) [[Code]](https://github.com/ratschlab/aestetik)
 
 - VisionFM: Development and Validation of a Multimodal Multitask Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://ai.nejm.org/doi/full/10.1056/AIoa2300221) [[Code]](https://github.com/ABILab-CUHK/VisionFM)
 - RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
