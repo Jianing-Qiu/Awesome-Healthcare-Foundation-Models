@@ -491,5 +491,7 @@ Note that some of the following models were not targeted at healthcare applicati
 | [Google DR Dev. Dataset](https://jamanetwork.com/journals/jama/fullarticle/2588763) | 239 K unique individuals, 1.6 M fundus images |
 | [UF Health IDR Clinical Note Database](https://www.nature.com/articles/s41746-022-00742-2) | 290 M clinical notes, with up to 82 B medical words |
 | [Clinical Practice Research Datalink](https://academic.oup.com/ije/article/44/3/827/632531) | 11.3 M patients covering data on demographics, symptoms, diagnoses, etc |
+| [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) | Multimodal virtual ST (H&E + expression + coords + genes); 28,664 TCGA slides / 32 cancers / 295.3M spots (DeepSpot-M; gated CC-BY-NC-SA) |
+| [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) | Multimodal virtual single-cell ST (H&E + expression + coords + genes); 59 HEST-1k Xenium samples / ~13.3M cells (DeepSpot-M; gated CC-BY-NC-SA) |
 
 
