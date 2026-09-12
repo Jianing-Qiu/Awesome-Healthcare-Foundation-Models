@@ -193,7 +193,7 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - WebGPT: Browser-assisted question-answering with human feedback [[Paper]](https://arxiv.org/pdf/2112.09332.pdf)
 - Improving alignment of dialogue agents via targeted human judgements [[Paper]](https://arxiv.org/pdf/2209.14375.pdf)
 - Improving Language Understanding by Generative Pre-Training [[Paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf)
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[Paper]](https://arxiv.org/pdf/1810.04805.pdf) [[Read online]](https://webeditions.page/works/bert-pre-training/)
 
 ## Large Vision Models
 
