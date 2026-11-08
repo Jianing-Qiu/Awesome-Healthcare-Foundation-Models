@@ -409,6 +409,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Informatics
 
+- Manana: Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care [[Paper]](https://arxiv.org/abs/2606.31036) [[Code]](https://github.com/roychowdhuryresearch/Manana)
 - Med-PaLM 2: Towards Expert-Level Medical Question Answering with Large Language Models [[Paper]](https://arxiv.org/pdf/2305.09617.pdf)
 - DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4 [[Paper]](https://arxiv.org/pdf/2303.11032.pdf)
 - Capabilities of GPT-4 on Medical Challenge Problems [[Paper]](https://arxiv.org/pdf/2303.13375.pdf)
