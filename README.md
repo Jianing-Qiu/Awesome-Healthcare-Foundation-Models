@@ -372,6 +372,7 @@ Note that some of the following models were not targeted at healthcare applicati
 - DrugBAN: Interpretable bilinear attention network with domain adaptation improves drug–target prediction [[Paper]](https://www.nature.com/articles/s42256-022-00605-1) [[Code]](https://github.com/peizhenbai/DrugBAN)
 - DrugOOD: Out-of-Distribution (OOD) Dataset Curator and Benchmark for AI-aided Drug Discovery [[Paper]](https://arxiv.org/abs/2201.09637) [[Code]](https://github.com/tencent-ailab/DrugOOD)
 - dna-claude-analysis: Personal genome analysis toolkit using LLM for raw DNA data analysis across 17 health categories [[Code]](https://github.com/shmlkv/dna-claude-analysis)
+- Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs [[Paper]](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) [[Code]](https://github.com/ratschlab/projects2026-kidney-kpmp-analysis)
 
 ### Medical Diagnosis
 
@@ -493,5 +494,7 @@ Note that some of the following models were not targeted at healthcare applicati
 | [Clinical Practice Research Datalink](https://academic.oup.com/ije/article/44/3/827/632531) | 11.3 M patients covering data on demographics, symptoms, diagnoses, etc |
 | [TCGA virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) | Multimodal virtual ST (H&E + expression + coords + genes); 28,664 TCGA slides / 32 cancers / 295.3M spots (DeepSpot-M; gated CC-BY-NC-SA) |
 | [HEST Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) | Multimodal virtual single-cell ST (H&E + expression + coords + genes); 59 HEST-1k Xenium samples / ~13.3M cells (DeepSpot-M; gated CC-BY-NC-SA) |
+| [KPMP virtual spatial transcriptomics atlas](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas) | Multimodal virtual ST (H&E + expression of 19,338 genes); 1,534 KPMP kidney biopsy slides / 476 participants / ~5.46M spots, with clinical and histopathological annotations (DeepSpot-M; gated CC-BY-NC-SA) |
+| [KPMP Xenium virtual spatial transcriptomics](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics) | Multimodal virtual single-cell ST (H&E + expression of 19,338 genes); 49 KPMP Xenium kidney sections / ~1.64M cells, with the measured Xenium panel (DeepSpot-M; gated CC-BY-NC-SA) |
 
 
