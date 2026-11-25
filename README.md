@@ -375,6 +375,7 @@ Note that some of the following models were not targeted at healthcare applicati
 
 ### Medical Diagnosis
 
+- GPAgentBench-2K: Benchmarking Large Language Model Agents in Complex Clinical Action Space [[Paper]](https://aclanthology.org/2026.emnlp-main.644.pdf) [[Code]](https://github.com/jianing-lab/GPAgentBench)
 - VisionFM: Development and Validation of a Multimodal Multitask Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence [[Paper]](https://ai.nejm.org/doi/full/10.1056/AIoa2300221) [[Code]](https://github.com/ABILab-CUHK/VisionFM)
 - RETFound: A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x)
 - LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day [[Paper]](https://arxiv.org/pdf/2306.00890.pdf)
